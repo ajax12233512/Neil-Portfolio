@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Neil-Portfolio/static/css/main.882c233e.css",
+    "main.js": "/Neil-Portfolio/static/js/main.8f4fb606.js",
+    "static/media/screenshot.png": "/Neil-Portfolio/static/media/screenshot.ceb9bad13dffbe24d732.png",
+    "static/media/secc.JPG": "/Neil-Portfolio/static/media/secc.6897cb0c6b65c730503d.JPG",
+    "static/media/code-test.JPG": "/Neil-Portfolio/static/media/code-test.76baa5c90963ca7ea8fb.JPG",
+    "static/media/weather-dashboard.JPG": "/Neil-Portfolio/static/media/weather-dashboard.04363874fd617819c527.JPG",
+    "static/media/mongo.png": "/Neil-Portfolio/static/media/mongo.1dce5a947c9fc2d8570f.png",
+    "static/media/react.png": "/Neil-Portfolio/static/media/react.73ac128ace7cbddf3d39.png",
+    "static/media/express.png": "/Neil-Portfolio/static/media/express.375eee7619857b2ae37a.png",
+    "static/media/three.png": "/Neil-Portfolio/static/media/three.f1b62f2db044747adf2f.png",
+    "static/media/HTML.png": "/Neil-Portfolio/static/media/HTML.33745eadd572612bdf11.png",
+    "static/media/p5.png": "/Neil-Portfolio/static/media/p5.51669fe459e2ed2bfd9e.png",
+    "index.html": "/Neil-Portfolio/index.html",
+    "main.882c233e.css.map": "/Neil-Portfolio/static/css/main.882c233e.css.map",
+    "main.8f4fb606.js.map": "/Neil-Portfolio/static/js/main.8f4fb606.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.882c233e.css",
+    "static/js/main.8f4fb606.js"
+  ]
+}
