@@ -11,7 +11,7 @@ import { useEffect } from 'react';
 
 function App() {
 
-  console.log(window.env)
+ 
 
   // useEffect(() => {
   //   window.addEventListener('mousemove', (e) => {
