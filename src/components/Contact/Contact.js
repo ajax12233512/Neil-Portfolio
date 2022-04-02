@@ -5,9 +5,9 @@ import emailjs from '@emailjs/browser';
 
 function Contact() {
     
-    const userId = window.env.USER_ID;
-    const templateId = window.env.TEMPLATE_ID;
-    const serviceId = window.env.SERVICE_ID;
+    const userId = process.env.USER_ID || window.env.USER_ID;
+    const templateId = process.env.TEMPLATE_ID || window.env.TEMPLATE_ID;
+    const serviceId = process.env.SERVICE_ID || window.env.SERVICE_ID;
 
     const form = useRef(); //Create reference to form *required in sendForm()*
     const [formName, setFormName] = useState()

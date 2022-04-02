@@ -2,6 +2,7 @@
   "name": "neil-web-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ajax12233512.github.io/Neil-Portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.5.0",
     "@testing-library/jest-dom": "^5.16.3",
@@ -17,6 +18,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-dotenv && react-scripts start",
     "build": "react-dotenv && react-scripts build",
     "test": "react-scripts test",
@@ -40,7 +43,14 @@
       "last 1 safari version"
     ]
   },
-  "react-dotenv" :{
-    "whitelist": ["SERVICE_ID", "TEMPLATE_ID", "USER_ID"]
+  "react-dotenv": {
+    "whitelist": [
+      "SERVICE_ID",
+      "TEMPLATE_ID",
+      "USER_ID"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
