@@ -1,0 +1,82 @@
+.about{
+    width: 100vw;
+}
+
+.about-me{
+    text-align: center;
+    padding: 5vh 0;
+
+}
+
+.about-icon{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.about-me-ctn{
+    color: white;
+    padding: 5vh 2vw;
+    background: rgb(0,0,0,0.5);
+    backdrop-filter: blur(4px);
+    
+}
+
+.about-tech-ctn{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 10px;
+    
+}
+
+.about-tech-icon{
+    justify-self: center;
+    height: 10vh;
+    width: 18vw;
+
+} 
+
+@media screen and (min-width: 1040px){
+    .about-me-ctn {
+        color: white;
+        padding: 5vh 2vw;
+        background: rgb(0,0,0,0.5);
+        -webkit-backdrop-filter: blur(4px);
+        backdrop-filter: blur(4px);
+        display: flex;
+        justify-content: space-around;
+        box-sizing: border-box;
+        margin: 2% 20%;
+        padding: 10vh;
+        border-radius: 1em;
+    }
+
+    .about-me{
+        width: 30%;
+    }
+
+    .about-icon{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .about-tech-ctn{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        row-gap: 10px;
+        column-gap: 10px;
+        
+    }
+    
+    .about-tech-icon{
+        justify-self: center;
+        height: 5vh;
+        width: 6vw;
+    
+    } 
+}
