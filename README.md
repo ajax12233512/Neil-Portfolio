@@ -13,6 +13,6 @@ p5 canvas inside a single react component. I had to create classes within the
 I am very fond of creative programming. Technologies that javascript offers such as p5.js and Three.js are some of my favorite technologies
 to work with. They offer the ability to express many different ways your applications and I just love it. 
 
-Live Link: 
+Live Link:https://ajax12233512.github.io/Neil-Portfolio/
 
 
