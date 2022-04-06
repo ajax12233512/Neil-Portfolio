@@ -15,7 +15,7 @@
 .project-ctn:hover{
     backdrop-filter: blur(4px);
     border: 2px solid white;
-    background: rgb(0, 0, 0, 0.2);
+    background: rgba(197, 43, 236, 0.256);;
     color: white;
 }
 

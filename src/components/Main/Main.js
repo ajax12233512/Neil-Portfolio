@@ -31,6 +31,9 @@ function Main() {
             <a href='./resume/neiljresume.pdf' download="Neil's Resume" className='main-resume'>
                 <p>Download Resume</p>
             </a>
+            <a href='mailto:neilj1213@outlook.com' className='main-email'>
+                <p>Email: <span>neilj1213@outlook.com</span></p>
+            </a>
         </div>
     )
 }

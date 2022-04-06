@@ -77,6 +77,15 @@
     z-index: 100;
 }
 
+.main-email{
+    position: absolute;
+    bottom: 13%;
+    left: 10%;
+    background-color: black;
+    color: white;
+    padding: 1% 5%;
+}
+
 @media screen and (min-width: 1040px){
     .main-name-ctn{
         top: 30%;
@@ -114,6 +123,12 @@
 @media screen and (min-width: 1040px){
     .main-name-ctn{
         top: 30%;
+        left: 25%;
+    }
+
+    .main-email{
+        position: absolute;
+        bottom: 20%;
         left: 25%;
     }
 
