@@ -78,6 +78,7 @@ export default (props) => {
             p5.fill('rgba(255,255,255, .1)')
             p5.ellipse(ellipse.x, ellipse.y, 70, 70);
 
+
             //Move circle 
             ellipse.moveX();
             ellipse.moveY();
@@ -109,7 +110,7 @@ export default (props) => {
         const x = p5.mouseX;
         const y = p5.mouseY;
 
-        p5.fill(p5.color('hsla(255, 10%, 100%, 0.001)'))
+        p5.fill(p5.color('rgba(255, 255, 255, .1)'))
         p5.stroke('rgb(216,191,216)');
         p5.strokeWeight(.1);
         const ourCircle = p5.circle(x, y, 500)

@@ -20,7 +20,7 @@
     text-decoration: none;
     color: white;
     width: 100%;
-
+    
 
 
     position: relative;
@@ -73,7 +73,7 @@
         justify-content: center;
         height: 6.5vh;
         /* box-shadow: none; */
-        box-shadow: 1px 1px 50px 1px;
+        box-shadow: 1px 1px 50px 1px  rgb(245, 79, 245);
     }
 
     .navbar-item{

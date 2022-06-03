@@ -42,7 +42,7 @@ function Navbar() {
             {/* Navbar links */}
             <ul 
                 className={`navbar-items-ctn animate__animated animate__slideInLeft`} 
-                style={scroll ? {display : 'flex'} : 
+                style={scroll ? {display : 'flex', justifyContent: 'left' }: 
                 click ? 
                 {display : 'block'} : 
                 {display: 'none'}}

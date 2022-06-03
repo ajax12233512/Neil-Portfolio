@@ -2,6 +2,8 @@ import codeTest from './img/code-test.JPG'
 import madQuick from './img/screenshot.png'
 import secc from './img/secc.JPG'
 import weather from './img/weather-dashboard.JPG'
+import ticTacToe from './img/tic-tac-toe.JPG'
+import email from './img/email.JPG'
 
 const ProjectList = [
     {
@@ -19,11 +21,11 @@ const ProjectList = [
         github: 'https://github.com/ajax12233512/Mad-Quick-Stats'
     },
     {
-        title: 'S E C C',
-        description: 'Manage Projects with this easy-to-use Javascript App!',
-        img_src: secc,
-        link: 'https://s-e-c-c.herokuapp.com/',
-        github: 'https://github.com/brandynh/S.E.C.C'
+        title: 'Tic Tac Toe - React',
+        description: 'Tic Tac Toe game with React!',
+        img_src: ticTacToe,
+        link: 'https://glacial-falls-64721.herokuapp.com/',
+        github: 'https://github.com/ajax12233512/tic-tac-toe-react'
     },
     {
         title: 'Weather Dashboard',
@@ -31,6 +33,13 @@ const ProjectList = [
         img_src: weather,
         link: 'https://ajax12233512.github.io/Weather-Dashboard/',
         github: 'https://github.com/ajax12233512/Weather-Dashboard'
+    },
+    {
+        title: 'Email Form',
+        description: 'Send and Email from your website using email.js',
+        img_src: email,
+        link: 'https://neil-mail.herokuapp.com/',
+        github: 'https://github.com/ajax12233512/Email-Form'
     },
 ];
 
