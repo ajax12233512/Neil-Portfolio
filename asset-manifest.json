@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Neil-Portfolio/static/css/main.995a2582.css",
-    "main.js": "/Neil-Portfolio/static/js/main.e3699048.js",
+    "main.css": "/Neil-Portfolio/static/css/main.ea91bb4e.css",
+    "main.js": "/Neil-Portfolio/static/js/main.c4d1c4bc.js",
     "static/media/screenshot.png": "/Neil-Portfolio/static/media/screenshot.ceb9bad13dffbe24d732.png",
     "static/media/secc.JPG": "/Neil-Portfolio/static/media/secc.6897cb0c6b65c730503d.JPG",
     "static/media/code-test.JPG": "/Neil-Portfolio/static/media/code-test.76baa5c90963ca7ea8fb.JPG",
     "static/media/weather-dashboard.JPG": "/Neil-Portfolio/static/media/weather-dashboard.04363874fd617819c527.JPG",
     "static/media/mongo.png": "/Neil-Portfolio/static/media/mongo.1dce5a947c9fc2d8570f.png",
     "static/media/react.png": "/Neil-Portfolio/static/media/react.73ac128ace7cbddf3d39.png",
+    "static/media/email.JPG": "/Neil-Portfolio/static/media/email.6312d11c6ba08755b9a7.JPG",
+    "static/media/tic-tac-toe.JPG": "/Neil-Portfolio/static/media/tic-tac-toe.d75bb4b3fdd1d230f9c9.JPG",
     "static/media/express.png": "/Neil-Portfolio/static/media/express.375eee7619857b2ae37a.png",
     "static/media/three.png": "/Neil-Portfolio/static/media/three.f1b62f2db044747adf2f.png",
     "static/media/HTML.png": "/Neil-Portfolio/static/media/HTML.33745eadd572612bdf11.png",
     "static/media/p5.png": "/Neil-Portfolio/static/media/p5.51669fe459e2ed2bfd9e.png",
     "index.html": "/Neil-Portfolio/index.html",
-    "main.995a2582.css.map": "/Neil-Portfolio/static/css/main.995a2582.css.map",
-    "main.e3699048.js.map": "/Neil-Portfolio/static/js/main.e3699048.js.map"
+    "main.ea91bb4e.css.map": "/Neil-Portfolio/static/css/main.ea91bb4e.css.map",
+    "main.c4d1c4bc.js.map": "/Neil-Portfolio/static/js/main.c4d1c4bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.995a2582.css",
-    "static/js/main.e3699048.js"
+    "static/css/main.ea91bb4e.css",
+    "static/js/main.c4d1c4bc.js"
   ]
 }
